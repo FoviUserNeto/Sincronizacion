@@ -1,6 +1,6 @@
 <<?php 
 
 
-	echo "Bienvenido a los sistemas de pagos Paypal y OpenPay";
+	echo "Bienvenido a los sistemas de pagos Paypal y OpenPay II";
 
  ?>
